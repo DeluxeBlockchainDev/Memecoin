@@ -8,7 +8,6 @@ import "./base/TokenController.sol";
 
 /**
  * @title MemePreSale
- * @author @Mohs20
  * @notice Meme Token Sale round one presale contract, with mincap (goal), softcap and hardcap (cap)
  * @dev This contract has to be finalized before refund or token claims are enabled
  */
